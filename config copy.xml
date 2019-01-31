@@ -105,11 +105,7 @@ not winphone
 	<preference name="StatusBarOverlaysWebView" value="false" />
 	<preference name="StatusBarBackgroundColor" value="#6290ee" /> 
 	
-	<preference name="phonegap-version" value="cli-6.1.2" />
-	
-<!-- value="cli-6.5.0" -->
-	
-	<!-- all: current version of PhoneGap -->
+	<preference name="phonegap-version" value="cli-6.5.0" /> <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="false" />           <!-- all: hides the status bar at the top of the screen -->
