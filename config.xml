@@ -162,13 +162,13 @@ not winphone
     <gap:plugin name="cordova-plugin-vibration" source="npm" />
 	
 	<gap:plugin name="cordova-plugin-whitelist" source="npm"/>
+	<gap:plugin name="cordova-plugin-statusbar" source="npm" />
+	
 	<!-- <gap:plugin name="com.phonegap.plugin.statusbar" source="npm" />
 	
 	<plugin name="org.apache.cordova.statusbar" source="pgb" />
 	 -->
 	
-	
-	<gap:plugin name="cordova-plugin-statusbar" source="npm" />
 	
 	<!-- try npm and gap: in front for statusbar-->
 
