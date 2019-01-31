@@ -3,8 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.idcapp.basic"
     versionCode = "151"
-    version     = "1.5.1"
-	android-versionCode="2" >
+    version     = "1.5.1" >
 	
 <!--just android ios-->
 	
