@@ -106,9 +106,9 @@ not winphone
 	<preference name="StatusBarOverlaysWebView" value="false" />
 	<preference name="StatusBarBackgroundColor" value="#6290ee" /> 
 	
-	<preference name="phonegap-version" value="cli-6.5.0" />
+	<preference name="phonegap-version" value="cli-8.1.1" />
 	
-<!-- value="cli-6.5.0" cli-8.0.0 cli-6.1.2-->
+<!-- value="cli-6.5.0" cli-8.0.0 cli-6.1.2 cli-8.1.1-->
 	
 	<!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
