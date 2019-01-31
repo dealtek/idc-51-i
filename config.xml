@@ -118,11 +118,6 @@ not winphone
     <preference name="android-minSdkVersion"      value="7" />              <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-installLocation"    value="auto" />           <!-- android: app install location. 'auto' will choose. 'internalOnly' is device memory. 'preferExternal' is SDCard. -->
 	
-	
-	
-	
-	
-	
 
     <!-- Plugins -->
 	<!-- Core plugins -->
@@ -160,7 +155,6 @@ not winphone
     <gap:plugin name="cordova-plugin-network-information" source="npm" />
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <gap:plugin name="cordova-plugin-vibration" source="npm" />
-	
 	<gap:plugin name="cordova-plugin-whitelist" source="npm"/>
 	<gap:plugin name="cordova-plugin-statusbar" source="npm" />
 	
